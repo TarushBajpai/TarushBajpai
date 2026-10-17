@@ -100,11 +100,10 @@ The goal is to understand how backend systems work from the fundamentals rather 
 
 ## 🧠 Problem Solving
 
-solved 150+ leetcode questions **Data Structures & Algorithms using Java**.
-
 ### LeetCode
 
-![LeetCode](https://img.shields.io/badge/LeetCode-160%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-180%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white)
+🔗 **LeetCode:** [Tarush Bajpai](https://leetcode.com/u/tarush_bajpai/)
 
 ---
 
