@@ -72,6 +72,7 @@ Currently developing a DPI engine that processes network traffic and analyzes pr
 
 ### 🛒 Mine Nutrition World
 
+🌐 **Live Website:** [minenutritionworld.in](https://minenutritionworld.in)
 A Django-based e-commerce platform developed for a real client.
 
 **Built with:**
@@ -87,9 +88,6 @@ A Django-based e-commerce platform developed for a real client.
 - Shopping cart
 - Online payments
 - Cash on Delivery
-
-  [View Project](minenutritionworld.in)
-
 ---
 
 ### ☕ Java Backend & Networking Projects
