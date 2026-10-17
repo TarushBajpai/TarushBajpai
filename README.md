@@ -1,45 +1,47 @@
 # Hi 👋, I'm Tarush Bajpai
 
-### B.Tech CSE Student | Java Backend Developer in Progress 🚀
+### B.Tech CSE Student 
 
-I'm a Computer Science student focused on **Java, backend development, DSA, and system-oriented projects**.
+I'm a Computer Science student focused on **Java, backend development, DSA, and system-oriented projects** i have also worked with python and django.
 
-Currently learning and building with **Java backend technologies, REST APIs, Gradle**, while continuing to improve my problem-solving skills through LeetCode.
+Currently learning **Java backend development, REST APIs, and Gradle**, while building projects and improving my problem-solving skills with Java.
 
 ---
 
-## 🧑‍💻 What I'm Currently Doing
+## 🧑‍💻 Currently Working On
 
 - ☕ Learning **Java Backend Development**
-- 🔧 Working with **Gradle** and Maven
-- 🌐 Learning **REST APIs & backend architecture**
-- 🧠 Practicing **DSA with Java**
+- 🌐 Exploring **REST APIs** and backend architecture
+- 🔧 Working with **Gradle** alongside Maven
+- 🧠 Practicing **Data Structures & Algorithms with Java**
 - 🔍 Building a **Deep Packet Inspection Engine in Java**
-- 📚 Exploring networking, databases, and system design
+- 📚 Exploring **networking, databases, and system design**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-`Java` `Python` `SQL` `C`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-**Backend & Development**
+### Backend & Development
 
-`Django` `REST APIs` `Maven` `Gradle`
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
-**Databases**
+### Database & Tools
 
-`SQLite` `MySQL`
-
-**Tools**
-
-`Git` `GitHub` `IntelliJ IDEA` `VS Code`
-
-**Currently Learning**
-
-`Java Backend` `REST APIs` `Gradle` `System Design`
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -47,14 +49,24 @@ Currently learning and building with **Java backend technologies, REST APIs, Gra
 
 ### 🔍 Deep Packet Inspection Engine
 
-A Java-based network traffic analysis and security monitoring system.
+**Java-based network traffic analysis and security monitoring system.**
 
-**Working with:** Java • Networking • PCAP • Protocol Analysis • Security
+Currently developing a DPI engine that processes network traffic and analyzes protocols to identify and monitor potentially suspicious activity.
 
-→ Analyzing network packets and protocols  
-→ Detecting application protocols  
-→ Tracking network flows  
-→ Building a rule-based security analysis system
+**Working with:**
+
+`Java` `Networking` `PCAP` `TCP/IP` `Protocol Analysis` `Security` `Flow Tracking`
+
+**Current development includes:**
+
+- Ethernet, IPv4, TCP, UDP and ICMP packet parsing
+- Protocol detection
+- Network flow tracking
+- Payload analysis
+- Security rule engine
+- Traffic statistics and alerts
+
+🔗 [View Project](https://github.com/TarushBajpai/DPI-Engine-Java)
 
 ---
 
@@ -62,44 +74,53 @@ A Java-based network traffic analysis and security monitoring system.
 
 A Django-based e-commerce platform developed for a real client.
 
-**Working with:** Python • Django • SQLite • Bootstrap • Razorpay
+**Built with:**
 
-→ Product catalog and search  
-→ Authentication and address management  
-→ Shopping cart  
-→ Online payments and Cash on Delivery
+`Python` `Django` `SQLite` `Bootstrap` `Razorpay`
+
+**Features include:**
+
+- Product catalog
+- Search, sorting and pagination
+- User authentication
+- Address management
+- Shopping cart
+- Online payments
+- Cash on Delivery
+
+  [View Project](minenutritionworld.in)
 
 ---
 
-### 🌐 Java Backend / Networking Projects
+### ☕ Java Backend & Networking Projects
 
-Currently experimenting with Java server-side programming, socket programming, REST APIs and backend fundamentals.
+Currently experimenting with Java server-side programming, socket programming, HTTP communication and backend fundamentals.
+
+The goal is to understand how backend systems work from the fundamentals rather than only using frameworks.
 
 ---
 
 ## 🧠 Problem Solving
 
-I regularly practice Data Structures & Algorithms using **Java**.
+solved 150+ leetcode questions **Data Structures & Algorithms using Java**.
 
-**LeetCode:**  
-[![LeetCode](https://img.shields.io/badge/LeetCode-TarushBajpai-orange?style=flat&logo=leetcode)](https://leetcode.com/)
+### LeetCode
 
----
-
-## 📈 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarushBajpai&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarushBajpai&layout=compact&theme=github_dark&hide_border=true)
+![LeetCode](https://img.shields.io/badge/LeetCode-160%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 
 ---
 
-## 🔗 Connect With Me
+## 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tarush%20Bajpai-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tarush-bajpai/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-TarushBajpai-black?style=flat&logo=github)](https://github.com/TarushBajpai)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TarushBajpai&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarushBajpai&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
 
 ---
 
-### ⚡ Currently building, learning and improving — one project at a time.
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TarushBajpai&theme=github-dark-blue&hide_border=true" />
+</p>
