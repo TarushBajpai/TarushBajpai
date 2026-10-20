@@ -105,19 +105,4 @@ The goal is to understand how backend systems work from the fundamentals rather 
 ![LeetCode](https://img.shields.io/badge/LeetCode-180%2B%20Problems-orange?style=for-the-badge&logo=leetcode&logoColor=white)
 🔗 **LeetCode:** [Tarush Bajpai](https://leetcode.com/u/tarush_bajpai/)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarushBajpai&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarushBajpai&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=TarushBajpai&theme=github-dark-blue&hide_border=true" />
-</p>
